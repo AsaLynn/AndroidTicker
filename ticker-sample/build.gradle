@@ -17,11 +17,13 @@ android {
 }
 
 dependencies {
-    implementation project(':ticker')
+//    implementation project(':ticker')
 
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
 
     implementation 'com.jakewharton:butterknife:10.0.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+
+//    implementation 'com.robinhood.ticker:ticker:2.0.0'
 }

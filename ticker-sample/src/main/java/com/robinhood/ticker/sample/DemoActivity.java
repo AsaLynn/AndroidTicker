@@ -24,7 +24,7 @@ public class DemoActivity extends BaseActivity {
 
         tvJinE.setCharacterLists(TickerUtils.provideNumberList());
         tvJinE.setAnimationDuration(1500);
-        tvJinE.setPreferredScrollingDirection(TickerView.ScrollingDirection.UP);
+//        tvJinE.setPreferredScrollingDirection(TickerView.ScrollingDirection.UP);
 //        tvJinE.setText("0");
 
 
